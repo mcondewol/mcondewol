@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Mario Conde - Software & Data Engineer
 
-<!--
-**mcondewol/mcondewol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Acerca de mí**:
+Soy un apasionado **Software Engineer** y **Data Engineer** con experiencia en el desarrollo de soluciones innovadoras para diversas industrias, como educación, finanzas y reclutamiento. Me especializo en:
+- **Automatización de procesos**
+- **Integración de datos**
+- **Desarrollo Backend y Frontend**
 
-Here are some ideas to get you started:
+💻 **Stack Tecnológico**:
+- **Lenguajes:** Python, JavaScript, SQL
+- **Frameworks:** FastAPI, Flask, Angular, React
+- **Bases de Datos:** PostgreSQL, MySQL, MongoDB
+- **Herramientas de Datos:** Pandas, NumPy, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🌐 **Conéctate conmigo**:
+- [LinkedIn](https://www.linkedin.com/in/marioconde)
+- [Email](mailto:mcodegt@gmail.com)
+
+🚀 ¡Siempre estoy abierto a colaborar en proyectos interesantes!
